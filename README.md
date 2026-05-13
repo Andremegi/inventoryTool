@@ -98,6 +98,8 @@ Columns that don't match these names exactly will be ignored. If your file uses 
 ```
 farmacia_app.py   # Main Streamlit application
 README.md         # This file
+requirements.txt  # File with dependencies
+
 ```
 
 ---
@@ -210,6 +212,7 @@ Las columnas que no coincidan exactamente con estos nombres serán ignoradas. Si
 ```
 farmacia_app.py   # Aplicación principal de Streamlit
 README.md         # Este archivo
+requirements.txt  #Archivo con dependencias
 ```
 
 ---
